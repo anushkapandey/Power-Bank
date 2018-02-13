@@ -1,0 +1,4 @@
+#Mon Feb 12 22:12:43 PST 2018
+base.0=C\:\\Users\\Anushka\\Desktop\\Winter 2018\\PowerBank\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
